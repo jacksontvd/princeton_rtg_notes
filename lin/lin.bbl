@@ -1,0 +1,15 @@
+% \bib, bibdiv, biblist are defined by the amsrefs package.
+\begin{bibdiv}
+\begin{biblist}
+
+\bib{hutchings_taubes_sw}{article}{
+      author={Hutchings, Michael},
+       title={An introduction to the seiberg-witten equations on symplectic
+  four-manifolds},
+        date={1999},
+     journal={AMS},
+       pages={103\ndash 142},
+}
+
+\end{biblist}
+\end{bibdiv}

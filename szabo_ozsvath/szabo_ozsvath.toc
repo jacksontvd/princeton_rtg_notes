@@ -1,0 +1,27 @@
+\contentsline {section}{\tocsection {}{1}{Classical knot theory}}{1}{section.1}
+\contentsline {subsection}{\tocsubsection {}{1.1}{Preliminaries}}{1}{subsection.1.1}
+\contentsline {subsection}{\tocsubsection {}{1.2}{Recognizing the unknot}}{3}{subsection.1.2}
+\contentsline {subsection}{\tocsubsection {}{1.3}{Dehn surgery}}{4}{subsection.1.3}
+\contentsline {section}{\tocsection {}{2}{Kauffman states}}{5}{section.2}
+\contentsline {subsection}{\tocsubsection {}{2.1}{Black and white graphs}}{5}{subsection.2.1}
+\contentsline {subsection}{\tocsubsection {}{2.2}{The Alexander polynomial}}{6}{subsection.2.2}
+\contentsline {section}{\tocsection {}{3}{Heegaard Floer homology}}{7}{section.3}
+\contentsline {subsection}{\tocsubsection {}{3.1}{Heegaard diagrams}}{7}{subsection.3.1}
+\contentsline {subsection}{\tocsubsection {}{3.2}{The chain complex}}{9}{subsection.3.2}
+\contentsline {section}{\tocsection {}{4}{Knot Floer homology}}{10}{section.4}
+\contentsline {subsection}{\tocsubsection {}{4.1}{Getting a knot projection from a Heegaard diagram and vice versa}}{10}{subsection.4.1}
+\contentsline {subsection}{\tocsubsection {}{4.2}{The chain complex of a $3$-manifold}}{10}{subsection.4.2}
+\contentsline {subsection}{\tocsubsection {}{4.3}{Grading}}{11}{subsection.4.3}
+\contentsline {subsection}{\tocsubsection {}{4.4}{Other variants of knot Floer homology}}{11}{subsection.4.4}
+\contentsline {section}{\tocsection {}{5}{Properties of knot Floer homology}}{12}{section.5}
+\contentsline {subsection}{\tocsubsection {}{5.1}{The Alexander polynomial}}{12}{subsection.5.1}
+\contentsline {subsection}{\tocsubsection {}{5.2}{Seifert genus}}{12}{subsection.5.2}
+\contentsline {section}{\tocsection {}{6}{Bordered knot Floer homology}}{16}{section.6}
+\contentsline {subsection}{\tocsubsection {}{6.1}{Upper Kauffman states}}{16}{subsection.6.1}
+\contentsline {subsection}{\tocsubsection {}{6.2}{Construction of the algebra $\mathcal {C}\left ( n \right )$}}{17}{subsection.6.2}
+\contentsline {subsection}{\tocsubsection {}{6.3}{$D$-structure associated with an upper diagram}}{20}{subsection.6.3}
+\contentsline {subsection}{\tocsubsection {}{6.4}{$DA$-bimodule associated with a crossing}}{20}{subsection.6.4}
+\contentsline {subsection}{\tocsubsection {}{6.5}{$A$-structure associated with a lower diagram}}{20}{subsection.6.5}
+\contentsline {section}{\tocsection {Appendix}{A}{$D$-structures and $\mathcal {A}_\infty $ modules}}{20}{appendix.A}
+\contentsline {section}{\tocsection {Appendix}{B}{$DA$-bimodules}}{21}{appendix.B}
+\contentsline {section}{\tocsection {Appendix}{C}{Box tensor product}}{22}{appendix.C}

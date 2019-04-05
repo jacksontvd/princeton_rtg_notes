@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: lin.aux
+The style file: amsrn.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: math.bib
+Warning--I'm ignoring hutchings_taubes_sw's extra "author" field
+--line 292 of file math.bib
+You've used 1 entry,
+            1497 wiz_defined-function locations,
+            409 strings with 2633 characters,
+and the built_in function-call counts, 685 in all, are:
+= -- 36
+> -- 44
+< -- 1
++ -- 11
+- -- 41
+* -- 55
+:= -- 115
+add.period$ -- 0
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 3
+cite$ -- 1
+duplicate$ -- 51
+empty$ -- 27
+format.name$ -- 2
+if$ -- 90
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 14
+num.names$ -- 2
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 13
+stack$ -- 0
+substring$ -- 16
+swap$ -- 32
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 9
+width$ -- 0
+write$ -- 22
+(There was 1 warning)
